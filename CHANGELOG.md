@@ -5,5 +5,5 @@ Changed: -
 
 Date: 5/31/24
 Author: Audrey Rojas
-Added: CAD files for receiver/transmitter
+Added: CAD files for receiver/transmitter, Notes on design
 Changed: -
